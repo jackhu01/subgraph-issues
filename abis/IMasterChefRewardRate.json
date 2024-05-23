@@ -1,0 +1,3357 @@
+{
+  "contractName": "IMasterChefRewardRate",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "sushiPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "rewardPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "rewardsPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "bananaPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "booPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "joePerSec",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "solarPerSec",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "thorusPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "plsPerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "cakePerSecond",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "zyberPerSec",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "arxPerSec",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "WETHPerSec",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "rewardPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "rewardsPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "cakePerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "dinoPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "tribalChiefTribePerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "snowballPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "spiritPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "crystalPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "hairPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "cntPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "solarPerBlock",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[],\"name\":\"WETHPerSec\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"arxPerSec\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"bananaPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"booPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"cakePerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"cakePerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"cntPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"crystalPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"dinoPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"hairPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"joePerSec\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"plsPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"rewardPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"rewardPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"rewardsPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"rewardsPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"snowballPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"solarPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"solarPerSec\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"spiritPerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"sushiPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"thorusPerSecond\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"tribalChiefTribePerBlock\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"zyberPerSec\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"project:/contracts/interfaces/IMasterChefRewardRate.sol\":\"IMasterChefRewardRate\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":999999},\"remappings\":[]},\"sources\":{\"project:/contracts/interfaces/IMasterChefRewardRate.sol\":{\"keccak256\":\"0x9af73a9c18269ccfeabdc0bdd9ed6b7e12911f1387bef4bd74e0d27acdb8588e\",\"urls\":[\"bzz-raw://6403a26ccf6f06fd248b20df3301cd6abf558c1142ec777b8fbc969337caede6\",\"dweb:/ipfs/QmdgbZpLuST7aiKiqyrd96idcZdZcuhgwEXayPZ1aT2uLC\"]}},\"version\":1}",
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "sourceMap": "",
+  "deployedSourceMap": "",
+  "source": "pragma solidity >=0.5.0;\r\n\r\ninterface IMasterChefRewardRate {\r\n\tfunction sushiPerSecond() external view returns (uint256);\t\r\n\tfunction rewardPerSecond() external view returns (uint256);\t\r\n\tfunction rewardsPerSecond() external view returns (uint256);\t\r\n\tfunction bananaPerSecond() external view returns (uint256);\r\n\tfunction booPerSecond() external view returns (uint256);\t\r\n\tfunction joePerSec() external view returns (uint256);\r\n\tfunction solarPerSec() external view returns (uint256);\r\n\tfunction thorusPerSecond() external view returns (uint256);\r\n\tfunction plsPerSecond() external view returns (uint256);\r\n\tfunction cakePerSecond() external view returns (uint256);\t\r\n\tfunction zyberPerSec() external view returns (uint256);\t\r\n\tfunction arxPerSec() external view returns (uint256);\t\r\n\tfunction WETHPerSec() external view returns (uint256);\t\r\n\t\r\n\tfunction rewardPerBlock() external view returns (uint256);\t\r\n\tfunction rewardsPerBlock() external view returns (uint256);\t\r\n\tfunction cakePerBlock() external view returns (uint256);\t\r\n\tfunction dinoPerBlock() external view returns (uint256);\t\r\n\tfunction tribalChiefTribePerBlock() external view returns (uint256);\t\r\n\tfunction snowballPerBlock() external view returns (uint256);\t\r\n\tfunction spiritPerBlock() external view returns (uint256);\r\n\tfunction crystalPerBlock() external view returns (uint256);\r\n\tfunction hairPerBlock() external view returns (uint256);\r\n\tfunction cntPerBlock() external view returns (uint256);\r\n\tfunction solarPerBlock() external view returns (uint256);\r\n}",
+  "sourcePath": "C:\\Users\\simor\\Desktop\\staked-lp-token\\contracts\\interfaces\\IMasterChefRewardRate.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/interfaces/IMasterChefRewardRate.sol",
+    "exportedSymbols": {
+      "IMasterChefRewardRate": [
+        26911
+      ]
+    },
+    "id": 26912,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 26790,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:65"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "interface",
+        "documentation": null,
+        "fullyImplemented": false,
+        "id": 26911,
+        "linearizedBaseContracts": [
+          26911
+        ],
+        "name": "IMasterChefRewardRate",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26795,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "sushiPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26791,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "87:2:65"
+            },
+            "returnParameters": {
+              "id": 26794,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26793,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26795,
+                  "src": "113:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26792,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "113:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "112:9:65"
+            },
+            "scope": 26911,
+            "src": "64:58:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26800,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "rewardPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26796,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "150:2:65"
+            },
+            "returnParameters": {
+              "id": 26799,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26798,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26800,
+                  "src": "176:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26797,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "176:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "175:9:65"
+            },
+            "scope": 26911,
+            "src": "126:59:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26805,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "rewardsPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26801,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "214:2:65"
+            },
+            "returnParameters": {
+              "id": 26804,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26803,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26805,
+                  "src": "240:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26802,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "240:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "239:9:65"
+            },
+            "scope": 26911,
+            "src": "189:60:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26810,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "bananaPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26806,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "277:2:65"
+            },
+            "returnParameters": {
+              "id": 26809,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26808,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26810,
+                  "src": "303:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26807,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "303:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "302:9:65"
+            },
+            "scope": 26911,
+            "src": "253:59:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26815,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "booPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26811,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "336:2:65"
+            },
+            "returnParameters": {
+              "id": 26814,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26813,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26815,
+                  "src": "362:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26812,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "362:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "361:9:65"
+            },
+            "scope": 26911,
+            "src": "315:56:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26820,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "joePerSec",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26816,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "393:2:65"
+            },
+            "returnParameters": {
+              "id": 26819,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26818,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26820,
+                  "src": "419:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26817,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "419:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "418:9:65"
+            },
+            "scope": 26911,
+            "src": "375:53:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26825,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "solarPerSec",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26821,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "451:2:65"
+            },
+            "returnParameters": {
+              "id": 26824,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26823,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26825,
+                  "src": "477:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26822,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "477:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "476:9:65"
+            },
+            "scope": 26911,
+            "src": "431:55:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26830,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "thorusPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26826,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "513:2:65"
+            },
+            "returnParameters": {
+              "id": 26829,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26828,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26830,
+                  "src": "539:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26827,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "539:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "538:9:65"
+            },
+            "scope": 26911,
+            "src": "489:59:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26835,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "plsPerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26831,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "572:2:65"
+            },
+            "returnParameters": {
+              "id": 26834,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26833,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26835,
+                  "src": "598:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26832,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "598:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "597:9:65"
+            },
+            "scope": 26911,
+            "src": "551:56:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26840,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "cakePerSecond",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26836,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "632:2:65"
+            },
+            "returnParameters": {
+              "id": 26839,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26838,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26840,
+                  "src": "658:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26837,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "658:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "657:9:65"
+            },
+            "scope": 26911,
+            "src": "610:57:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26845,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "zyberPerSec",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26841,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "691:2:65"
+            },
+            "returnParameters": {
+              "id": 26844,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26843,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26845,
+                  "src": "717:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26842,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "717:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "716:9:65"
+            },
+            "scope": 26911,
+            "src": "671:55:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26850,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "arxPerSec",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26846,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "748:2:65"
+            },
+            "returnParameters": {
+              "id": 26849,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26848,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26850,
+                  "src": "774:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26847,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "774:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "773:9:65"
+            },
+            "scope": 26911,
+            "src": "730:53:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26855,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "WETHPerSec",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26851,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "806:2:65"
+            },
+            "returnParameters": {
+              "id": 26854,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26853,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26855,
+                  "src": "832:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26852,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "832:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "831:9:65"
+            },
+            "scope": 26911,
+            "src": "787:54:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26860,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "rewardPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26856,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "871:2:65"
+            },
+            "returnParameters": {
+              "id": 26859,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26858,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26860,
+                  "src": "897:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26857,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "897:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "896:9:65"
+            },
+            "scope": 26911,
+            "src": "848:58:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26865,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "rewardsPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26861,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "934:2:65"
+            },
+            "returnParameters": {
+              "id": 26864,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26863,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26865,
+                  "src": "960:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26862,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "960:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "959:9:65"
+            },
+            "scope": 26911,
+            "src": "910:59:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26870,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "cakePerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26866,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "994:2:65"
+            },
+            "returnParameters": {
+              "id": 26869,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26868,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26870,
+                  "src": "1020:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26867,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1020:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1019:9:65"
+            },
+            "scope": 26911,
+            "src": "973:56:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26875,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "dinoPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26871,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1054:2:65"
+            },
+            "returnParameters": {
+              "id": 26874,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26873,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26875,
+                  "src": "1080:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26872,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1080:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1079:9:65"
+            },
+            "scope": 26911,
+            "src": "1033:56:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26880,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "tribalChiefTribePerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26876,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1126:2:65"
+            },
+            "returnParameters": {
+              "id": 26879,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26878,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26880,
+                  "src": "1152:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26877,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1152:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1151:9:65"
+            },
+            "scope": 26911,
+            "src": "1093:68:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26885,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "snowballPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26881,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1190:2:65"
+            },
+            "returnParameters": {
+              "id": 26884,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26883,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26885,
+                  "src": "1216:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26882,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1216:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1215:9:65"
+            },
+            "scope": 26911,
+            "src": "1165:60:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26890,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "spiritPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26886,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1252:2:65"
+            },
+            "returnParameters": {
+              "id": 26889,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26888,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26890,
+                  "src": "1278:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26887,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1278:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1277:9:65"
+            },
+            "scope": 26911,
+            "src": "1229:58:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26895,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "crystalPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26891,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1314:2:65"
+            },
+            "returnParameters": {
+              "id": 26894,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26893,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26895,
+                  "src": "1340:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26892,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1340:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1339:9:65"
+            },
+            "scope": 26911,
+            "src": "1290:59:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26900,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "hairPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26896,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1373:2:65"
+            },
+            "returnParameters": {
+              "id": 26899,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26898,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26900,
+                  "src": "1399:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26897,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1399:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1398:9:65"
+            },
+            "scope": 26911,
+            "src": "1352:56:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26905,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "cntPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26901,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1431:2:65"
+            },
+            "returnParameters": {
+              "id": 26904,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26903,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26905,
+                  "src": "1457:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26902,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1457:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1456:9:65"
+            },
+            "scope": 26911,
+            "src": "1411:55:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          },
+          {
+            "body": null,
+            "documentation": null,
+            "id": 26910,
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "solarPerBlock",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 26906,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "1491:2:65"
+            },
+            "returnParameters": {
+              "id": 26909,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 26908,
+                  "name": "",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 26910,
+                  "src": "1517:7:65",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_uint256",
+                    "typeString": "uint256"
+                  },
+                  "typeName": {
+                    "id": 26907,
+                    "name": "uint256",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "1517:7:65",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "value": null,
+                  "visibility": "internal"
+                }
+              ],
+              "src": "1516:9:65"
+            },
+            "scope": 26911,
+            "src": "1469:57:65",
+            "stateMutability": "view",
+            "superFunction": null,
+            "visibility": "external"
+          }
+        ],
+        "scope": 26912,
+        "src": "28:1501:65"
+      }
+    ],
+    "src": "0:1529:65"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "project:/contracts/interfaces/IMasterChefRewardRate.sol",
+      "exportedSymbols": {
+        "IMasterChefRewardRate": [
+          26911
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            ">=",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 26790,
+        "name": "PragmaDirective",
+        "src": "0:24:65"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "interface",
+          "documentation": null,
+          "fullyImplemented": false,
+          "linearizedBaseContracts": [
+            26911
+          ],
+          "name": "IMasterChefRewardRate",
+          "scope": 26912
+        },
+        "children": [
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "sushiPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26791,
+                "name": "ParameterList",
+                "src": "87:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26795,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26792,
+                        "name": "ElementaryTypeName",
+                        "src": "113:7:65"
+                      }
+                    ],
+                    "id": 26793,
+                    "name": "VariableDeclaration",
+                    "src": "113:7:65"
+                  }
+                ],
+                "id": 26794,
+                "name": "ParameterList",
+                "src": "112:9:65"
+              }
+            ],
+            "id": 26795,
+            "name": "FunctionDefinition",
+            "src": "64:58:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "rewardPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26796,
+                "name": "ParameterList",
+                "src": "150:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26800,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26797,
+                        "name": "ElementaryTypeName",
+                        "src": "176:7:65"
+                      }
+                    ],
+                    "id": 26798,
+                    "name": "VariableDeclaration",
+                    "src": "176:7:65"
+                  }
+                ],
+                "id": 26799,
+                "name": "ParameterList",
+                "src": "175:9:65"
+              }
+            ],
+            "id": 26800,
+            "name": "FunctionDefinition",
+            "src": "126:59:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "rewardsPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26801,
+                "name": "ParameterList",
+                "src": "214:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26805,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26802,
+                        "name": "ElementaryTypeName",
+                        "src": "240:7:65"
+                      }
+                    ],
+                    "id": 26803,
+                    "name": "VariableDeclaration",
+                    "src": "240:7:65"
+                  }
+                ],
+                "id": 26804,
+                "name": "ParameterList",
+                "src": "239:9:65"
+              }
+            ],
+            "id": 26805,
+            "name": "FunctionDefinition",
+            "src": "189:60:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "bananaPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26806,
+                "name": "ParameterList",
+                "src": "277:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26810,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26807,
+                        "name": "ElementaryTypeName",
+                        "src": "303:7:65"
+                      }
+                    ],
+                    "id": 26808,
+                    "name": "VariableDeclaration",
+                    "src": "303:7:65"
+                  }
+                ],
+                "id": 26809,
+                "name": "ParameterList",
+                "src": "302:9:65"
+              }
+            ],
+            "id": 26810,
+            "name": "FunctionDefinition",
+            "src": "253:59:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "booPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26811,
+                "name": "ParameterList",
+                "src": "336:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26815,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26812,
+                        "name": "ElementaryTypeName",
+                        "src": "362:7:65"
+                      }
+                    ],
+                    "id": 26813,
+                    "name": "VariableDeclaration",
+                    "src": "362:7:65"
+                  }
+                ],
+                "id": 26814,
+                "name": "ParameterList",
+                "src": "361:9:65"
+              }
+            ],
+            "id": 26815,
+            "name": "FunctionDefinition",
+            "src": "315:56:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "joePerSec",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26816,
+                "name": "ParameterList",
+                "src": "393:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26820,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26817,
+                        "name": "ElementaryTypeName",
+                        "src": "419:7:65"
+                      }
+                    ],
+                    "id": 26818,
+                    "name": "VariableDeclaration",
+                    "src": "419:7:65"
+                  }
+                ],
+                "id": 26819,
+                "name": "ParameterList",
+                "src": "418:9:65"
+              }
+            ],
+            "id": 26820,
+            "name": "FunctionDefinition",
+            "src": "375:53:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "solarPerSec",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26821,
+                "name": "ParameterList",
+                "src": "451:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26825,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26822,
+                        "name": "ElementaryTypeName",
+                        "src": "477:7:65"
+                      }
+                    ],
+                    "id": 26823,
+                    "name": "VariableDeclaration",
+                    "src": "477:7:65"
+                  }
+                ],
+                "id": 26824,
+                "name": "ParameterList",
+                "src": "476:9:65"
+              }
+            ],
+            "id": 26825,
+            "name": "FunctionDefinition",
+            "src": "431:55:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "thorusPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26826,
+                "name": "ParameterList",
+                "src": "513:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26830,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26827,
+                        "name": "ElementaryTypeName",
+                        "src": "539:7:65"
+                      }
+                    ],
+                    "id": 26828,
+                    "name": "VariableDeclaration",
+                    "src": "539:7:65"
+                  }
+                ],
+                "id": 26829,
+                "name": "ParameterList",
+                "src": "538:9:65"
+              }
+            ],
+            "id": 26830,
+            "name": "FunctionDefinition",
+            "src": "489:59:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "plsPerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26831,
+                "name": "ParameterList",
+                "src": "572:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26835,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26832,
+                        "name": "ElementaryTypeName",
+                        "src": "598:7:65"
+                      }
+                    ],
+                    "id": 26833,
+                    "name": "VariableDeclaration",
+                    "src": "598:7:65"
+                  }
+                ],
+                "id": 26834,
+                "name": "ParameterList",
+                "src": "597:9:65"
+              }
+            ],
+            "id": 26835,
+            "name": "FunctionDefinition",
+            "src": "551:56:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "cakePerSecond",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26836,
+                "name": "ParameterList",
+                "src": "632:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26840,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26837,
+                        "name": "ElementaryTypeName",
+                        "src": "658:7:65"
+                      }
+                    ],
+                    "id": 26838,
+                    "name": "VariableDeclaration",
+                    "src": "658:7:65"
+                  }
+                ],
+                "id": 26839,
+                "name": "ParameterList",
+                "src": "657:9:65"
+              }
+            ],
+            "id": 26840,
+            "name": "FunctionDefinition",
+            "src": "610:57:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "zyberPerSec",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26841,
+                "name": "ParameterList",
+                "src": "691:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26845,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26842,
+                        "name": "ElementaryTypeName",
+                        "src": "717:7:65"
+                      }
+                    ],
+                    "id": 26843,
+                    "name": "VariableDeclaration",
+                    "src": "717:7:65"
+                  }
+                ],
+                "id": 26844,
+                "name": "ParameterList",
+                "src": "716:9:65"
+              }
+            ],
+            "id": 26845,
+            "name": "FunctionDefinition",
+            "src": "671:55:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "arxPerSec",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26846,
+                "name": "ParameterList",
+                "src": "748:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26850,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26847,
+                        "name": "ElementaryTypeName",
+                        "src": "774:7:65"
+                      }
+                    ],
+                    "id": 26848,
+                    "name": "VariableDeclaration",
+                    "src": "774:7:65"
+                  }
+                ],
+                "id": 26849,
+                "name": "ParameterList",
+                "src": "773:9:65"
+              }
+            ],
+            "id": 26850,
+            "name": "FunctionDefinition",
+            "src": "730:53:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "WETHPerSec",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26851,
+                "name": "ParameterList",
+                "src": "806:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26855,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26852,
+                        "name": "ElementaryTypeName",
+                        "src": "832:7:65"
+                      }
+                    ],
+                    "id": 26853,
+                    "name": "VariableDeclaration",
+                    "src": "832:7:65"
+                  }
+                ],
+                "id": 26854,
+                "name": "ParameterList",
+                "src": "831:9:65"
+              }
+            ],
+            "id": 26855,
+            "name": "FunctionDefinition",
+            "src": "787:54:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "rewardPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26856,
+                "name": "ParameterList",
+                "src": "871:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26860,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26857,
+                        "name": "ElementaryTypeName",
+                        "src": "897:7:65"
+                      }
+                    ],
+                    "id": 26858,
+                    "name": "VariableDeclaration",
+                    "src": "897:7:65"
+                  }
+                ],
+                "id": 26859,
+                "name": "ParameterList",
+                "src": "896:9:65"
+              }
+            ],
+            "id": 26860,
+            "name": "FunctionDefinition",
+            "src": "848:58:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "rewardsPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26861,
+                "name": "ParameterList",
+                "src": "934:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26865,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26862,
+                        "name": "ElementaryTypeName",
+                        "src": "960:7:65"
+                      }
+                    ],
+                    "id": 26863,
+                    "name": "VariableDeclaration",
+                    "src": "960:7:65"
+                  }
+                ],
+                "id": 26864,
+                "name": "ParameterList",
+                "src": "959:9:65"
+              }
+            ],
+            "id": 26865,
+            "name": "FunctionDefinition",
+            "src": "910:59:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "cakePerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26866,
+                "name": "ParameterList",
+                "src": "994:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26870,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26867,
+                        "name": "ElementaryTypeName",
+                        "src": "1020:7:65"
+                      }
+                    ],
+                    "id": 26868,
+                    "name": "VariableDeclaration",
+                    "src": "1020:7:65"
+                  }
+                ],
+                "id": 26869,
+                "name": "ParameterList",
+                "src": "1019:9:65"
+              }
+            ],
+            "id": 26870,
+            "name": "FunctionDefinition",
+            "src": "973:56:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "dinoPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26871,
+                "name": "ParameterList",
+                "src": "1054:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26875,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26872,
+                        "name": "ElementaryTypeName",
+                        "src": "1080:7:65"
+                      }
+                    ],
+                    "id": 26873,
+                    "name": "VariableDeclaration",
+                    "src": "1080:7:65"
+                  }
+                ],
+                "id": 26874,
+                "name": "ParameterList",
+                "src": "1079:9:65"
+              }
+            ],
+            "id": 26875,
+            "name": "FunctionDefinition",
+            "src": "1033:56:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "tribalChiefTribePerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26876,
+                "name": "ParameterList",
+                "src": "1126:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26880,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26877,
+                        "name": "ElementaryTypeName",
+                        "src": "1152:7:65"
+                      }
+                    ],
+                    "id": 26878,
+                    "name": "VariableDeclaration",
+                    "src": "1152:7:65"
+                  }
+                ],
+                "id": 26879,
+                "name": "ParameterList",
+                "src": "1151:9:65"
+              }
+            ],
+            "id": 26880,
+            "name": "FunctionDefinition",
+            "src": "1093:68:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "snowballPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26881,
+                "name": "ParameterList",
+                "src": "1190:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26885,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26882,
+                        "name": "ElementaryTypeName",
+                        "src": "1216:7:65"
+                      }
+                    ],
+                    "id": 26883,
+                    "name": "VariableDeclaration",
+                    "src": "1216:7:65"
+                  }
+                ],
+                "id": 26884,
+                "name": "ParameterList",
+                "src": "1215:9:65"
+              }
+            ],
+            "id": 26885,
+            "name": "FunctionDefinition",
+            "src": "1165:60:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "spiritPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26886,
+                "name": "ParameterList",
+                "src": "1252:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26890,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26887,
+                        "name": "ElementaryTypeName",
+                        "src": "1278:7:65"
+                      }
+                    ],
+                    "id": 26888,
+                    "name": "VariableDeclaration",
+                    "src": "1278:7:65"
+                  }
+                ],
+                "id": 26889,
+                "name": "ParameterList",
+                "src": "1277:9:65"
+              }
+            ],
+            "id": 26890,
+            "name": "FunctionDefinition",
+            "src": "1229:58:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "crystalPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26891,
+                "name": "ParameterList",
+                "src": "1314:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26895,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26892,
+                        "name": "ElementaryTypeName",
+                        "src": "1340:7:65"
+                      }
+                    ],
+                    "id": 26893,
+                    "name": "VariableDeclaration",
+                    "src": "1340:7:65"
+                  }
+                ],
+                "id": 26894,
+                "name": "ParameterList",
+                "src": "1339:9:65"
+              }
+            ],
+            "id": 26895,
+            "name": "FunctionDefinition",
+            "src": "1290:59:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "hairPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26896,
+                "name": "ParameterList",
+                "src": "1373:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26900,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26897,
+                        "name": "ElementaryTypeName",
+                        "src": "1399:7:65"
+                      }
+                    ],
+                    "id": 26898,
+                    "name": "VariableDeclaration",
+                    "src": "1399:7:65"
+                  }
+                ],
+                "id": 26899,
+                "name": "ParameterList",
+                "src": "1398:9:65"
+              }
+            ],
+            "id": 26900,
+            "name": "FunctionDefinition",
+            "src": "1352:56:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "cntPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26901,
+                "name": "ParameterList",
+                "src": "1431:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26905,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26902,
+                        "name": "ElementaryTypeName",
+                        "src": "1457:7:65"
+                      }
+                    ],
+                    "id": 26903,
+                    "name": "VariableDeclaration",
+                    "src": "1457:7:65"
+                  }
+                ],
+                "id": 26904,
+                "name": "ParameterList",
+                "src": "1456:9:65"
+              }
+            ],
+            "id": 26905,
+            "name": "FunctionDefinition",
+            "src": "1411:55:65"
+          },
+          {
+            "attributes": {
+              "body": null,
+              "documentation": null,
+              "implemented": false,
+              "isConstructor": false,
+              "kind": "function",
+              "modifiers": [
+                null
+              ],
+              "name": "solarPerBlock",
+              "scope": 26911,
+              "stateMutability": "view",
+              "superFunction": null,
+              "visibility": "external"
+            },
+            "children": [
+              {
+                "attributes": {
+                  "parameters": [
+                    null
+                  ]
+                },
+                "children": [],
+                "id": 26906,
+                "name": "ParameterList",
+                "src": "1491:2:65"
+              },
+              {
+                "children": [
+                  {
+                    "attributes": {
+                      "constant": false,
+                      "name": "",
+                      "scope": 26910,
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "type": "uint256",
+                      "value": null,
+                      "visibility": "internal"
+                    },
+                    "children": [
+                      {
+                        "attributes": {
+                          "name": "uint256",
+                          "type": "uint256"
+                        },
+                        "id": 26907,
+                        "name": "ElementaryTypeName",
+                        "src": "1517:7:65"
+                      }
+                    ],
+                    "id": 26908,
+                    "name": "VariableDeclaration",
+                    "src": "1517:7:65"
+                  }
+                ],
+                "id": 26909,
+                "name": "ParameterList",
+                "src": "1516:9:65"
+              }
+            ],
+            "id": 26910,
+            "name": "FunctionDefinition",
+            "src": "1469:57:65"
+          }
+        ],
+        "id": 26911,
+        "name": "ContractDefinition",
+        "src": "28:1501:65"
+      }
+    ],
+    "id": 26912,
+    "name": "SourceUnit",
+    "src": "0:1529:65"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.11",
+  "updatedAt": "2023-03-21T11:05:42.290Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}

@@ -1,0 +1,349 @@
+specVersion: 0.0.4
+repository: https://github.com/Impermax-Finance/impermax-x-uniswap-v2-subgraph
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum/contract
+    name: ImpermaxFactory
+    network: mantle
+    source:
+      address: "0x3047523D5ed0df1545B1C440BdAaB095f1f3cf5C"
+      abi: ImpermaxFactory
+      startBlock: 63416514
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/impermaxFactory.ts
+      entities:
+        - ImpermaxFactory
+      abis:
+        - name: ImpermaxFactory
+          file: ./abis/ImpermaxFactory.json
+        - name: ERC20
+          file: ./abis/ERC20.json
+        - name: ERC20SymbolBytes
+          file: ./abis/ERC20SymbolBytes.json
+        - name: ERC20NameBytes
+          file: ./abis/ERC20NameBytes.json
+        - name: UniswapFactory
+          file: ./abis/UniswapFactory.json
+        - name: Pair
+          file: ./abis/pair.json
+        - name: IBaseV1Pair
+          file: ./abis/IBaseV1Pair.json
+        - name: IBaseV1Factory
+          file: ./abis/IBaseV1Factory.json
+        - name: ILpDepositor
+          file: ./abis/ILpDepositor.json
+        - name: IGauge
+          file: ./abis/IGauge.json
+        - name: ISolidlyMAGauge
+          file: ./abis/ISolidlyMAGauge.json
+        - name: FarmingPool
+          file: ./abis/FarmingPool.json
+        - name: Distributor
+          file: ./abis/Distributor.json
+        - name: Collateral
+          file: ./abis/Collateral.json
+        - name: CollateralStable
+          file: ./abis/CollateralStable.json
+        - name: Borrowable
+          file: ./abis/Borrowable.json
+        - name: StakedLPToken
+          file: ./abis/IStakedLPToken.json
+        - name: StakingRewards
+          file: ./abis/StakingRewards.json
+        - name: StakingRewards03
+          file: ./abis/StakingRewards03.json
+        - name: StakingDualRewards
+          file: ./abis/IStakingDualRewards.json
+        - name: IMasterChef0212
+          file: ./abis/IMasterChef0212.json
+        - name: IMasterChef0222
+          file: ./abis/IMasterChef0222.json
+        - name: IMasterChef0223
+          file: ./abis/IMasterChef0223.json
+        - name: IMasterChef023
+          file: ./abis/IMasterChef023.json
+        - name: IMasterChef024
+          file: ./abis/IMasterChef024.json
+        - name: IMasterChef025
+          file: ./abis/IMasterChef025.json
+        - name: ISimpleRewarder
+          file: ./abis/ISimpleRewarder.json
+        - name: IMasterChefRewardRate
+          file: ./abis/IMasterChefRewardRate.json
+        - name: IRewarder
+          file: ./abis/IRewarder.json
+      eventHandlers:
+        - event: LendingPoolInitialized(indexed address,indexed address,indexed address,address,address,address,uint256)
+          handler: handleLendingPoolInitialized
+templates:
+  - kind: ethereum/contract
+    name: Pair
+    network: mantle
+    source:
+      abi: Pair
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/uniswapPair.ts
+      entities:
+        - Pair
+        - Token
+      abis:
+        - name: PoolToken
+          file: ./abis/PoolToken.json
+        - name: ImpermaxFactory
+          file: ./abis/ImpermaxFactory.json
+        - name: ERC20
+          file: ./abis/ERC20.json
+        - name: ERC20SymbolBytes
+          file: ./abis/ERC20SymbolBytes.json
+        - name: ERC20NameBytes
+          file: ./abis/ERC20NameBytes.json
+        - name: UniswapFactory
+          file: ./abis/UniswapFactory.json
+        - name: Pair
+          file: ./abis/pair.json
+        - name: IBaseV1Pair
+          file: ./abis/IBaseV1Pair.json
+        - name: IBaseV1Factory
+          file: ./abis/IBaseV1Factory.json
+        - name: ILpDepositor
+          file: ./abis/ILpDepositor.json
+        - name: IGauge
+          file: ./abis/IGauge.json
+        - name: ISolidlyMAGauge
+          file: ./abis/ISolidlyMAGauge.json
+        - name: FarmingPool
+          file: ./abis/FarmingPool.json
+        - name: Distributor
+          file: ./abis/Distributor.json
+        - name: Collateral
+          file: ./abis/Collateral.json
+        - name: CollateralStable
+          file: ./abis/CollateralStable.json
+        - name: Borrowable
+          file: ./abis/Borrowable.json
+        - name: StakedLPToken
+          file: ./abis/IStakedLPToken.json
+        - name: StakingRewards
+          file: ./abis/StakingRewards.json
+        - name: StakingRewards03
+          file: ./abis/StakingRewards03.json
+        - name: StakingDualRewards
+          file: ./abis/IStakingDualRewards.json
+        - name: IMasterChef0212
+          file: ./abis/IMasterChef0212.json
+        - name: IMasterChef0222
+          file: ./abis/IMasterChef0222.json
+        - name: IMasterChef0223
+          file: ./abis/IMasterChef0223.json
+        - name: IMasterChef023
+          file: ./abis/IMasterChef023.json
+        - name: IMasterChef024
+          file: ./abis/IMasterChef024.json
+        - name: IMasterChef025
+          file: ./abis/IMasterChef025.json
+        - name: ISimpleRewarder
+          file: ./abis/ISimpleRewarder.json
+        - name: IMasterChefRewardRate
+          file: ./abis/IMasterChefRewardRate.json
+        - name: IRewarder
+          file: ./abis/IRewarder.json
+      eventHandlers:
+#        - event: Sync(uint112,uint112)
+        - event: Mint(indexed address,uint256,uint256)
+          handler: handleSync1
+  - kind: ethereum/contract
+    name: Collateral
+    network: mantle
+    source:
+      abi: Collateral
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/collateral.ts
+      entities:
+        - Collateral
+      abis:
+       - name: Collateral
+         file: ./abis/Collateral.json
+       - name: CollateralStable
+         file: ./abis/CollateralStable.json
+      eventHandlers:
+        - event: Sync(uint256)
+          handler: handleSync
+        - event: NewSafetyMargin(uint256)
+          handler: handleNewSafetyMargin
+        - event: NewLiquidationIncentive(uint256)
+          handler: handleNewLiquidationIncentive
+        - event: NewLiquidationFee(uint256)
+          handler: handleNewLiquidationFee
+        - event: Transfer(indexed address,indexed address,uint256)
+          handler: handleTransfer
+  - kind: ethereum/contract
+    name: Borrowable
+    network: mantle
+    source:
+      abi: Borrowable
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/borrowable.ts
+      entities:
+        - Borrowable
+      abis:
+       - name: Borrowable
+         file: ./abis/Borrowable.json
+       - name: FarmingPool
+         file: ./abis/FarmingPool.json
+       - name: Distributor
+         file: ./abis/Distributor.json
+      eventHandlers:
+        - event: Sync(uint256)
+          handler: handleSync
+        - event: AccrueInterest(uint256,uint256,uint256)
+          handler: handleAccrueInterest
+        - event: Borrow(indexed address,indexed address,indexed address,uint256,uint256,uint256,uint256,uint256)
+          handler: handleBorrow
+        - event: Liquidate(indexed address,indexed address,indexed address,uint256,uint256,uint256,uint256,uint256)
+          handler: handleLiquidate
+        - event: CalculateKinkBorrowRate(uint256)
+          handler: handleCalculateKinkBorrowRate
+        - event: CalculateBorrowRate(uint256)
+          handler: handleCalculateBorrowRate
+        - event: NewReserveFactor(uint256)
+          handler: handleNewReserveFactor
+        - event: NewKinkUtilizationRate(uint256)
+          handler: handleNewKinkUtilizationRate
+        - event: NewAdjustSpeed(uint256)
+          handler: handleNewAdjustSpeed
+        - event: NewBorrowTracker(address)
+          handler: handleNewBorrowTracker
+        - event: Transfer(indexed address,indexed address,uint256)
+          handler: handleTransfer
+  - kind: ethereum/contract
+    name: FarmingPool
+    network: mantle
+    source:
+      abi: FarmingPool
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/farmingPool.ts
+      entities:
+        - FarmingPool
+      abis:
+       - name: FarmingPool
+         file: ./abis/FarmingPool.json
+       - name: Distributor
+         file: ./abis/Distributor.json
+      eventHandlers:
+        - event: Advance(uint256,uint256)
+          handler: handleAdvance
+  - kind: ethereum/contract
+    name: StakedLPToken
+    network: mantle
+    source:
+      abi: StakedLPToken
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.6
+      language: wasm/assemblyscript
+      file: ./src/mappings/uniswapPair.ts
+      entities:
+        - Pair
+      abis:
+        - name: PoolToken
+          file: ./abis/PoolToken.json
+        - name: ImpermaxFactory
+          file: ./abis/ImpermaxFactory.json
+        - name: ERC20
+          file: ./abis/ERC20.json
+        - name: ERC20SymbolBytes
+          file: ./abis/ERC20SymbolBytes.json
+        - name: ERC20NameBytes
+          file: ./abis/ERC20NameBytes.json
+        - name: UniswapFactory
+          file: ./abis/UniswapFactory.json
+        - name: Pair
+          file: ./abis/pair.json
+        - name: IBaseV1Pair
+          file: ./abis/IBaseV1Pair.json
+        - name: IBaseV1Factory
+          file: ./abis/IBaseV1Factory.json
+        - name: ILpDepositor
+          file: ./abis/ILpDepositor.json
+        - name: IGauge
+          file: ./abis/IGauge.json
+        - name: ISolidlyMAGauge
+          file: ./abis/ISolidlyMAGauge.json
+        - name: FarmingPool
+          file: ./abis/FarmingPool.json
+        - name: Distributor
+          file: ./abis/Distributor.json
+        - name: Collateral
+          file: ./abis/Collateral.json
+        - name: CollateralStable
+          file: ./abis/CollateralStable.json
+        - name: Borrowable
+          file: ./abis/Borrowable.json
+        - name: StakedLPToken
+          file: ./abis/IStakedLPToken.json
+        - name: StakingRewards
+          file: ./abis/StakingRewards.json
+        - name: StakingRewards03
+          file: ./abis/StakingRewards03.json
+        - name: StakingDualRewards
+          file: ./abis/IStakingDualRewards.json
+        - name: IMasterChef0212
+          file: ./abis/IMasterChef0212.json
+        - name: IMasterChef0222
+          file: ./abis/IMasterChef0222.json
+        - name: IMasterChef0223
+          file: ./abis/IMasterChef0223.json
+        - name: IMasterChef023
+          file: ./abis/IMasterChef023.json
+        - name: IMasterChef024
+          file: ./abis/IMasterChef024.json
+        - name: IMasterChef025
+          file: ./abis/IMasterChef025.json
+        - name: ISimpleRewarder
+          file: ./abis/ISimpleRewarder.json
+        - name: IMasterChefRewardRate
+          file: ./abis/IMasterChefRewardRate.json
+        - name: IRewarder
+          file: ./abis/IRewarder.json
+      eventHandlers:
+#        - event: Sync(uint256)
+        - event: Mint(indexed address,indexed address,uint256,uint256)
+          handler: handleSync2
+#  - kind: ethereum/contract
+#    name: StakingRewards
+#    network: mantle
+#    source:
+#      abi: StakingRewards
+#    mapping:
+#      kind: ethereum/events
+#      apiVersion: 0.0.6
+#      language: wasm/assemblyscript
+#      file: ./src/mappings/stakingRewards.ts
+#      entities:
+#        - StakingRewards
+#      abis:
+#        - name: StakingRewards
+#          file: ./abis/StakingRewards.json
+#      eventHandlers:
+#        - event: RewardAdded(uint256,uint256)
+#          handler: handleRewardAdded
+#        - event: Staked(indexed address,uint256)
+#          handler: handleStaked
+#        - event: Withdrawn(indexed address,uint256)
+#          handler: handleWithdrawn

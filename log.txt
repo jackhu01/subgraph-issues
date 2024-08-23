@@ -1,0 +1,966 @@
+t=2024-08-23T14:10:36+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:36+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:37+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:37+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:37+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:37+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:38+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:38+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:39+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:39+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:39+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:39+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:41+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:41+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:42+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:42+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:42+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:42+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:46+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:46+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:47+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:47+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:47+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:47+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:48+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:48+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:49+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:49+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:49+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:49+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:51+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:51+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:53+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:53+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:53+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:53+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:56+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:10:56+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:10:57+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:10:57+0000 lvl=eror msg="Error initializing the rollup node" err="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:57+0000 lvl=eror msg="Unable to create the rollup node"   error="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:10:57+0000 lvl=crit msg="Application failed"                 message="Post \"http://op-geth:8551\": dial tcp 172.19.0.2:8551: connect: connection refused"
+t=2024-08-23T14:11:04+0000 lvl=info msg="Initializing Rollup Node"
+t=2024-08-23T14:11:04+0000 lvl=info msg="Rollup Config"            l2_chain_id=5000 l2_network="unknown L2" l1_chain_id=1 l1_network=mainnet l2_start_time=1,710,468,791 l2_block_hash=0xf70a2270b05820a2b335e70ab9ce91e42e15f50d82db73d9c63085711b312fc8 l2_block_number=61,171,946 l1_block_hash=0x614050145039f11a778f1bd3c85ce2c1f3989492dbc544911fab9a7247e81ca4 l1_block_number=19,437,305 regolith_time="@ genesis"
+t=2024-08-23T14:11:06+0000 lvl=info msg="loaded new runtime config values!" p2p_seq_address=0xAAC979CBeE00C75C35DE9a2635d8B75940F466dc
+t=2024-08-23T14:11:06+0000 lvl=info msg="dialing static peer"               peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addrs=[/dns4/peer0.mantle.xyz/tcp/9003]
+t=2024-08-23T14:11:06+0000 lvl=info msg="dialing static peer"               peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addrs=[/dns4/peer1.mantle.xyz/tcp/9003]
+t=2024-08-23T14:11:06+0000 lvl=info msg="dialing static peer"               peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addrs=[/dns4/peer2.mantle.xyz/tcp/9003]
+t=2024-08-23T14:11:06+0000 lvl=info msg="started p2p host"                  addrs="[/ip4/172.19.0.3/tcp/9003 /ip4/127.0.0.1/tcp/9003]" peerID=16Uiu2HAm8B4CAppfjbs2GnPe7tdn4NFB1dY1vH3aHB9k2Y9ynaCY
+t=2024-08-23T14:11:06+0000 lvl=info msg="New local node record"             seq=1,724,422,266,173 id=61aa5adc7b195424bde7c7fe491393617e31f0cce0bdc35f1a6baaddf63b1f11 ip=<nil> udp=9003 tcp=9003
+t=2024-08-23T14:11:06+0000 lvl=info msg="started discovery service"         p2p=discv5 enr=enr:-JW4QOZm2olljfZfTsEXsuGlhW7e0N8RUu4PGFB1295TSKtreBDW6cfjzF12kX3Q5Y1SUNBaekyfA3346Go_YtTsCQSGAZF_k509gmlkgnY0h29wc3RhY2uDiCcAiXNlY3AyNTZrMaECvWlVrMv2jCVhFPwO50tcvO7MXAdHFxogcYqZ4YupFQmDdGNwgiMrg3VkcIIjKw id=61aa5adc7b195424bde7c7fe491393617e31f0cce0bdc35f1a6baaddf63b1f11
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting JSON-RPC server"
+t=2024-08-23T14:11:06+0000 lvl=info msg="starting metrics server"           addr=0.0.0.0 port=7300
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting rollup node"              version=v0.0.0-a29f0104-1709801456
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting execution engine driver"
+t=2024-08-23T14:11:06+0000 lvl=info msg="Rollup node started"
+t=2024-08-23T14:11:06+0000 lvl=info msg="State loop started"
+t=2024-08-23T14:11:06+0000 lvl=dbug msg="Derivation process step"           onto_origin=0x0000000000000000000000000000000000000000000000000000000000000000:0 attempts=0
+t=2024-08-23T14:11:06+0000 lvl=info msg="pprof server started"              addr=0.0.0.0:6060
+t=2024-08-23T14:11:06+0000 lvl=info msg="connected to peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:06+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:06+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:06+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:06+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:06+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:06+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:06+0000 lvl=info msg="Loaded current L2 heads"             unsafe=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818 safe=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 finalized=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 unsafe_origin=0x3f0c634b35535d2ea4ca591672fc070ecef7df175e376a35c1cd4d1b64743c57:20591777 safe_origin=0x5f3c3d59c1a2a123edba681c4f98cea52472a5221e33024da52d2fe284143044:20591690
+t=2024-08-23T14:11:06+0000 lvl=info msg="Walking back L1Block by number"      curr=0x3f0c634b35535d2ea4ca591672fc070ecef7df175e376a35c1cd4d1b64743c57:20591777 next=0x3f0c634b35535d2ea4ca591672fc070ecef7df175e376a35c1cd4d1b64743c57:20591777 l2block=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:06+0000 lvl=info msg="Found highest L2 block with canonical L1 origin. Skip further sanity check and jump to the safe head"
+t=2024-08-23T14:11:06+0000 lvl=info msg="Walking back L1Block by number"      curr=0x5f3c3d59c1a2a123edba681c4f98cea52472a5221e33024da52d2fe284143044:20591690 next=0x5f3c3d59c1a2a123edba681c4f98cea52472a5221e33024da52d2fe284143044:20591690 l2block=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:06+0000 lvl=info msg="Hit finalized L2 head, returning immediately" unsafe=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818 safe=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 finalized=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 unsafe_origin=0x3f0c634b35535d2ea4ca591672fc070ecef7df175e376a35c1cd4d1b64743c57:20591777 safe_origin=0x5f3c3d59c1a2a123edba681c4f98cea52472a5221e33024da52d2fe284143044:20591690
+t=2024-08-23T14:11:07+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=61af1d02ed3a5273f9cf9958f68126eba5f7d4a58c33c0551b2efe263be16eea err="invalid IP"
+t=2024-08-23T14:11:08+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=61aa96e8a842c07e6998deafc76a3481965ee0c8af69524856212a6f0d3371a1 err="does not match any requested distance"
+t=2024-08-23T14:11:08+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=61aa96e8a842c07e6998deafc76a3481965ee0c8af69524856212a6f0d3371a1 err="does not match any requested distance"
+t=2024-08-23T14:11:08+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=61aa96e8a842c07e6998deafc76a3481965ee0c8af69524856212a6f0d3371a1 err="duplicate record"
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="peering tick"                        connected=0 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:11+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:11+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:11+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:11+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:11+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:11+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:12+0000 lvl=dbug msg="Revalidated node"                    p2p=discv5 b=5 id=61b322150e480dc8e0b30deaae56014ec2cb450f2f520c449976222bd8d280ee checks=1
+t=2024-08-23T14:11:12+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=2a9bb9421d6aa013361d9b07b296da8859b0a499cccbff9c778a18355378443a err="duplicate record"
+t=2024-08-23T14:11:12+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=2a9bb9421d6aa013361d9b07b296da8859b0a499cccbff9c778a18355378443a err="duplicate record"
+t=2024-08-23T14:11:13+0000 lvl=dbug msg="Invalid record in NODES/v5"          p2p=discv5 id=ee35afad7e9dc09ee8e957e92d281f8438273f198944b647384e1af438817bc9 err="does not match any requested distance"
+t=2024-08-23T14:11:15+0000 lvl=dbug msg="discovered peer"                     peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="peering tick"                        connected=0 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:16+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:11:16+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:16+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:16+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:16+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:16+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:16+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:16+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:11:17+0000 lvl=dbug msg="peer joined topic"                   topic=blocks peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:11:19+0000 lvl=dbug msg="Revalidated node"                    p2p=discv5 b=0 id=61aa96e8a842c07e6998deafc76a3481965ee0c8af69524856212a6f0d3371a1 checks=1
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="peering tick"                        connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:21+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:21+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:21+0000 lvl=info msg="attempting connection"               peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:21+0000 lvl=info msg="connected to peer"                   peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=info msg="Starting P2P sync client event loop" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="stopped syncing loop of peer"        id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:21+0000 lvl=info msg="disconnected from peer"              peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="Reset engine queue"                  safeHead=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 unsafe=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818 safe_timestamp=1,724,420,890 unsafe_timestamp=1,724,421,948 l1Origin=0x5f3c3d59c1a2a123edba681c4f98cea52472a5221e33024da52d2fe284143044:20591690
+t=2024-08-23T14:11:21+0000 lvl=info msg="Sync progress"                       reason="reset derivation work" l2_finalized=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 l2_safe=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289 l2_unsafe=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818 l2_engineSyncTarget=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818 l2_time=1,724,421,948 l1_derived=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="reset of stage completed"            stage=0 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="requesting sync with open-end range" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:21+0000 lvl=info msg="Received first L1 head signal"       l1_head=0x97892fc8a1ed68e02e01a24a0238335528cc2e0e607baf6f431003bdecb442b4:20591809
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="Derivation process step"             onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:21+0000 lvl=info msg="completed reset of derivation pipeline" origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="reset of stage completed"               stage=1 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:21+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:21+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:23+0000 lvl=dbug msg="Invalid WHOAREYOU/v5"                   p2p=discv5 addr=75.33.70.41:19004            err="no matching call"
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Replaced dead node"                     p2p=discv5 b=4 id=61a6fc4c2013f1da3939c9db82c9b0b67b0357653b52f015e7588c48f2bf579d ip=18.215.255.51 checks=0 r=61a7778c8cea2f50e6e04f549b5986159a33cc3402754a17f2825e62596b92c3 rip=71.131.90.62
+t=2024-08-23T14:11:24+0000 lvl=info msg="Reset of L1Retrieval done"              origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=2 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=3 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=4 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=5 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=6 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="reset of stage completed"               stage=7 origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:24+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="peering tick"                           connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x38655eec6501de9f1eb6294ded9e3ccdc81a71234f587d6d9377dad2aa9cf8a6:20591390 attempts=0
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xe569ebe7f035d9d17c475c9307978e14c73d13e2c8ff0920adc2f55859fd9df9:20591391 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:27+0000 lvl=info msg="Advancing bq origin"                    origin=0xe569ebe7f035d9d17c475c9307978e14c73d13e2c8ff0920adc2f55859fd9df9:20591391 originBehind=true
+t=2024-08-23T14:11:27+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:27+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:30+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xe569ebe7f035d9d17c475c9307978e14c73d13e2c8ff0920adc2f55859fd9df9:20591391 attempts=0
+t=2024-08-23T14:11:30+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:30+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x9de68e0ceacdf8f71152eda6be9a279f043248864d39bec4ce16fbd745b2fbfe:20591392 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:30+0000 lvl=info msg="Advancing bq origin"                    origin=0x9de68e0ceacdf8f71152eda6be9a279f043248864d39bec4ce16fbd745b2fbfe:20591392 originBehind=true
+t=2024-08-23T14:11:30+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:30+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="peering tick"                           connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:31+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="Removed dead node"                      p2p=discv5 b=0 id=61aa9286de9c70f91bf731e870d9adfffcf8ea0bf8a6ffc2138f8a4ad4d09339 ip=130.61.39.144 checks=0
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x9de68e0ceacdf8f71152eda6be9a279f043248864d39bec4ce16fbd745b2fbfe:20591392 attempts=0
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x2c58029baff9bdde2ab971434bb9b9c187e9483d4f93d3440c2e65f2ead6ac01:20591393 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:34+0000 lvl=info msg="Advancing bq origin"                    origin=0x2c58029baff9bdde2ab971434bb9b9c187e9483d4f93d3440c2e65f2ead6ac01:20591393 originBehind=true
+t=2024-08-23T14:11:34+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:34+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="peering tick"                           connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=1 id=61aba01c3a3f32db3cddcff2e0c8ebcea1489229369ec58591c13d8ab8c15401 checks=1
+t=2024-08-23T14:11:36+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAm1S9CkXwWtqeLTdNQtqASoEWkR4ptN89yaycAEzLHsTFt nodeID=39cefa5a68d22749b1a90ea04a1cfa6b52d99af363958e97f0c6baa631e8e00f addr=/ip4/134.65.194.57/tcp/9222
+t=2024-08-23T14:11:37+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x2c58029baff9bdde2ab971434bb9b9c187e9483d4f93d3440c2e65f2ead6ac01:20591393 attempts=0
+t=2024-08-23T14:11:37+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:37+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xb00237fa7fad0849e29d880b23432fe5aac6ddc00f5c42e7a7862f9f5f5d1c98:20591394 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:37+0000 lvl=info msg="Advancing bq origin"                    origin=0xb00237fa7fad0849e29d880b23432fe5aac6ddc00f5c42e7a7862f9f5f5d1c98:20591394 originBehind=true
+t=2024-08-23T14:11:37+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:37+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:38+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=6 id=618ca8f8072a978b7ce14b0b2f91685d042c79019c1b1c19a24783a5ff3df125 checks=1
+t=2024-08-23T14:11:39+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0x580e3bb86b74bfacf729c5a1dc94e62128b5e5a56ea4d4faeeedbcf5be9daf24:20591810
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xb00237fa7fad0849e29d880b23432fe5aac6ddc00f5c42e7a7862f9f5f5d1c98:20591394 attempts=0
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xff0a1b660f6f646cd6e79e30fbc6bfcd6542ca6272a8d3a2124ddd2586e138ee:20591395 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:40+0000 lvl=info msg="Advancing bq origin"                    origin=0xff0a1b660f6f646cd6e79e30fbc6bfcd6542ca6272a8d3a2124ddd2586e138ee:20591395 originBehind=true
+t=2024-08-23T14:11:40+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:40+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="peering tick"                           connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1S9CkXwWtqeLTdNQtqASoEWkR4ptN89yaycAEzLHsTFt
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1S9CkXwWtqeLTdNQtqASoEWkR4ptN89yaycAEzLHsTFt addr=/ip4/134.65.194.57/tcp/9222
+t=2024-08-23T14:11:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1S9CkXwWtqeLTdNQtqASoEWkR4ptN89yaycAEzLHsTFt
+t=2024-08-23T14:11:42+0000 lvl=dbug msg="peer joined topic"                      topic=blocks peer=16Uiu2HAm1S9CkXwWtqeLTdNQtqASoEWkR4ptN89yaycAEzLHsTFt
+t=2024-08-23T14:11:43+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xff0a1b660f6f646cd6e79e30fbc6bfcd6542ca6272a8d3a2124ddd2586e138ee:20591395 attempts=0
+t=2024-08-23T14:11:43+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:43+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x893dc039261a9cac8bd4a3c5b94bfeb0e1800d350f93bd00d55ee32d8f86efe0:20591396 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:43+0000 lvl=info msg="Advancing bq origin"                    origin=0x893dc039261a9cac8bd4a3c5b94bfeb0e1800d350f93bd00d55ee32d8f86efe0:20591396 originBehind=true
+t=2024-08-23T14:11:43+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:43+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0xeb5ef659165f6f467148be1762e23c43bc2993021628e7e22c9315c306ef5a3a:20591811
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x893dc039261a9cac8bd4a3c5b94bfeb0e1800d350f93bd00d55ee32d8f86efe0:20591396 attempts=0
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xcc34922b5198ba0ee2c267584a02d3604c4062bcc0348be3e782c659079bde92:20591397 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:48+0000 lvl=info msg="Advancing bq origin"                    origin=0xcc34922b5198ba0ee2c267584a02d3604c4062bcc0348be3e782c659079bde92:20591397 originBehind=true
+t=2024-08-23T14:11:48+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:48+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=10 id=6245898da79a3838f954fb7ab6fe49dc69b3fdc6eee7e40cc88e0f5b66643a58 checks=1
+t=2024-08-23T14:11:50+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=1  id=61aba01c3a3f32db3cddcff2e0c8ebcea1489229369ec58591c13d8ab8c15401 checks=2
+t=2024-08-23T14:11:50+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xcc34922b5198ba0ee2c267584a02d3604c4062bcc0348be3e782c659079bde92:20591397 attempts=0
+t=2024-08-23T14:11:50+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:50+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xb0b15a09b1c346d34102a841df42947e4fed0005c261ff01adfe8e12bae76a92:20591398 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:50+0000 lvl=info msg="Advancing bq origin"                    origin=0xb0b15a09b1c346d34102a841df42947e4fed0005c261ff01adfe8e12bae76a92:20591398 originBehind=true
+t=2024-08-23T14:11:50+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:50+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:51+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:51+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:51+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:51+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:51+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:51+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0xce7a912fe06518ae57a4a85bab96ad9d04fcfd2f58828fa347f8204de12f33b3:20591812
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xb0b15a09b1c346d34102a841df42947e4fed0005c261ff01adfe8e12bae76a92:20591398 attempts=0
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xf1efc30d9ae534946494bf3f54ce70783e0539d90247f54508652d91b504d2cb:20591399 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:54+0000 lvl=info msg="Advancing bq origin"                    origin=0xf1efc30d9ae534946494bf3f54ce70783e0539d90247f54508652d91b504d2cb:20591399 originBehind=true
+t=2024-08-23T14:11:54+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:54+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna nodeID=989101fd0070a60174809072e90995fb82a3ce48aebe6301e8cb11d5ea14c8bc addr=/ip4/134.65.194.144/tcp/9222
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:11:56+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:56+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:56+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:56+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:11:56+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:56+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:11:56+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:56+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:56+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:56+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:56+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:11:56+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:56+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:56+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:11:56+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xf1efc30d9ae534946494bf3f54ce70783e0539d90247f54508652d91b504d2cb:20591399 attempts=0
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xa69317199efb4d1aebcd7e2d728e1c56b7a70c3a71a76af99eaa579de26828e0:20591400 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:57+0000 lvl=info msg="Advancing bq origin"                    origin=0xa69317199efb4d1aebcd7e2d728e1c56b7a70c3a71a76af99eaa579de26828e0:20591400 originBehind=true
+t=2024-08-23T14:11:57+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:11:57+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=10 id=624351a9103fb4753bae55eb7719a17d2d6d2a3b06ceff907b28127955b810c8 checks=1
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xa69317199efb4d1aebcd7e2d728e1c56b7a70c3a71a76af99eaa579de26828e0:20591400 attempts=0
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xc6418ae25da2b4caf80cfcfdc52cba3a7e0733f9ca1661116f1bca32b8e711fe:20591401 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:11:59+0000 lvl=info msg="Advancing bq origin"                    origin=0xc6418ae25da2b4caf80cfcfdc52cba3a7e0733f9ca1661116f1bca32b8e711fe:20591401 originBehind=true
+t=2024-08-23T14:11:59+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:11:59+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:01+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:01+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:01+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:01+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:01+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:01+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:03+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=1  id=61aba01c3a3f32db3cddcff2e0c8ebcea1489229369ec58591c13d8ab8c15401 checks=3
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="peer left topic"                        topic=blocks peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:12:04+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xc6418ae25da2b4caf80cfcfdc52cba3a7e0733f9ca1661116f1bca32b8e711fe:20591401 attempts=0
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xce9b943fac9480157d2444e365098cdd19ed9bca5b116ed37c9b593ced32e571:20591402 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:04+0000 lvl=info msg="Advancing bq origin"                    origin=0xce9b943fac9480157d2444e365098cdd19ed9bca5b116ed37c9b593ced32e571:20591402 originBehind=true
+t=2024-08-23T14:12:04+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:04+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="polling static peers"                   peers=3
+t=2024-08-23T14:12:06+0000 lvl=warn msg="static peer disconnected, reconnecting" peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="dialing static peer"                    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addrs=[/dns4/peer2.mantle.xyz/tcp/9003]
+t=2024-08-23T14:12:06+0000 lvl=warn msg="static peer disconnected, reconnecting" peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=info msg="dialing static peer"                    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addrs=[/dns4/peer1.mantle.xyz/tcp/9003]
+t=2024-08-23T14:12:06+0000 lvl=warn msg="static peer disconnected, reconnecting" peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="dialing static peer"                    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addrs=[/dns4/peer0.mantle.xyz/tcp/9003]
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="peering tick"                           connected=1 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:06+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:12:06+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="failed to dial 16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna:\n  * [/ip4/134.65.194.144/tcp/9222] dial backoff"
+t=2024-08-23T14:12:06+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:06+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:06+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:12:07+0000 lvl=dbug msg="peer joined topic"                      topic=blocks peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0xb22a50f32d9c7dcb4062ed7e30c29b0a92257a02a40b58813a2e5a19ff39a292:20591813
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xce9b943fac9480157d2444e365098cdd19ed9bca5b116ed37c9b593ced32e571:20591402 attempts=0
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xe5ca4b9f5a525984b96899c59813bab5aa8af5f1915e82ff6e35e3c7821fa97c:20591403 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:08+0000 lvl=info msg="Advancing bq origin"                    origin=0xe5ca4b9f5a525984b96899c59813bab5aa8af5f1915e82ff6e35e3c7821fa97c:20591403 originBehind=true
+t=2024-08-23T14:12:08+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:08+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=11 id=64c945fb4c16c03cb3d6ec59ef1f4cee44586cd3a3dc07f2a4fb147ab030c4a4 checks=1
+t=2024-08-23T14:12:09+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=9  id=6048d04d4f8677e8a3c9feeaa682e61cd602aab29a557d3847ea31968523b941 checks=1
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:11+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:11+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:11+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:11+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:11+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xe5ca4b9f5a525984b96899c59813bab5aa8af5f1915e82ff6e35e3c7821fa97c:20591403 attempts=0
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x66d531e456ff9d3a91c780cee40b162aa09888fff97ca2e3b1316a04b5d0a127:20591404 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:11+0000 lvl=info msg="Advancing bq origin"                    origin=0x66d531e456ff9d3a91c780cee40b162aa09888fff97ca2e3b1316a04b5d0a127:20591404 originBehind=true
+t=2024-08-23T14:12:11+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:11+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:14+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x66d531e456ff9d3a91c780cee40b162aa09888fff97ca2e3b1316a04b5d0a127:20591404 attempts=0
+t=2024-08-23T14:12:14+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:14+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xad9cb80819c79cb32375330666559a117efd40ac651cd70c4a490c0b3819b201:20591405 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:14+0000 lvl=info msg="Advancing bq origin"                    origin=0xad9cb80819c79cb32375330666559a117efd40ac651cd70c4a490c0b3819b201:20591405 originBehind=true
+t=2024-08-23T14:12:14+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:14+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:14+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:15+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=1  id=61aba01c3a3f32db3cddcff2e0c8ebcea1489229369ec58591c13d8ab8c15401 checks=4
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:16+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:16+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:16+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:16+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:16+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:16+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xad9cb80819c79cb32375330666559a117efd40ac651cd70c4a490c0b3819b201:20591405 attempts=0
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x5b85e9302f8936f779ca5416ac0803905538afed0eff2412da68c4fba877e78d:20591406 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:16+0000 lvl=info msg="Advancing bq origin"                    origin=0x5b85e9302f8936f779ca5416ac0803905538afed0eff2412da68c4fba877e78d:20591406 originBehind=true
+t=2024-08-23T14:12:16+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:16+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:20+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=12 id=6830bd3ca1069dee6b64696e79c74ec75e7e5032ff934e3d7c6e59118d14d29e checks=1
+t=2024-08-23T14:12:20+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x5b85e9302f8936f779ca5416ac0803905538afed0eff2412da68c4fba877e78d:20591406 attempts=0
+t=2024-08-23T14:12:20+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:20+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xa0672e1fb01d6a31a4372c8515139c60088a8986d5460176cf7d8fd7e981e0df:20591407 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:20+0000 lvl=info msg="Advancing bq origin"                    origin=0xa0672e1fb01d6a31a4372c8515139c60088a8986d5460176cf7d8fd7e981e0df:20591407 originBehind=true
+t=2024-08-23T14:12:20+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:20+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:21+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:21+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:21+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:21+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:21+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:21+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:21+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx nodeID=158d3834ba9bc80478ab085a54a4477775dc70d4b8dac45d6cf0b4cc39437504 addr=/ip4/65.109.92.156/tcp/9003
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0x97b6be397462a4162cfd5c5f48e9504f5aa422b1c38badc405a04e780338004f:20591814
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xa0672e1fb01d6a31a4372c8515139c60088a8986d5460176cf7d8fd7e981e0df:20591407 attempts=0
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x0cb4835e6da90d0543c575312006d0dd3a680eda911148d36e41bdf62e48b61e:20591408 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:23+0000 lvl=info msg="Advancing bq origin"                    origin=0x0cb4835e6da90d0543c575312006d0dd3a680eda911148d36e41bdf62e48b61e:20591408 originBehind=true
+t=2024-08-23T14:12:23+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:23+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x0cb4835e6da90d0543c575312006d0dd3a680eda911148d36e41bdf62e48b61e:20591408 attempts=0
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x1c4c724fc296a656e0fbb63d68bc2a60b5140d7bb55a835e87aa06393154b5e7:20591409 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:25+0000 lvl=info msg="Advancing bq origin"                    origin=0x1c4c724fc296a656e0fbb63d68bc2a60b5140d7bb55a835e87aa06393154b5e7:20591409 originBehind=true
+t=2024-08-23T14:12:25+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:25+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="failed to dial 16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna:\n  * [/ip4/134.65.194.144/tcp/9222] dial backoff"
+t=2024-08-23T14:12:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:26+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:26+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:26+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx err="failed to dial 16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx:\n  * [/ip4/65.109.92.156/tcp/9003] dial tcp4 65.109.92.156:9003: connect: connection refused"
+t=2024-08-23T14:12:27+0000 lvl=dbug msg="Removed dead node"                      p2p=discv5 b=0  id=61aae291cef053706f3a3b86ec8c6a92e770d58d3a0e85ac6696d92bee678295 ip=103.122.95.118 checks=0
+t=2024-08-23T14:12:28+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x1c4c724fc296a656e0fbb63d68bc2a60b5140d7bb55a835e87aa06393154b5e7:20591409 attempts=0
+t=2024-08-23T14:12:28+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:28+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x7741ca0beb7337e8af29e7b51b979c41d0fa225bdbf084e14185d911d6473fbd:20591410 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:28+0000 lvl=info msg="Advancing bq origin"                    origin=0x7741ca0beb7337e8af29e7b51b979c41d0fa225bdbf084e14185d911d6473fbd:20591410 originBehind=true
+t=2024-08-23T14:12:28+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:28+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=<nil>
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx
+t=2024-08-23T14:12:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx err="failed to dial 16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx:\n  * [/ip4/65.109.92.156/tcp/9003] dial backoff"
+t=2024-08-23T14:12:31+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="failed to dial 16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna:\n  * [/ip4/134.65.194.144/tcp/9222] dial backoff"
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:31+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0xf65b0c2d25eaa15a060f15cdb9ae25246ce40eacef280b4f5e330d108d35c008:20591815
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x7741ca0beb7337e8af29e7b51b979c41d0fa225bdbf084e14185d911d6473fbd:20591410 attempts=0
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x52e9433d940bc9ff6e6a10f036e0b2f4cd363cc7de11b1c92923642f8b21ebdf:20591411 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:31+0000 lvl=info msg="Advancing bq origin"                    origin=0x52e9433d940bc9ff6e6a10f036e0b2f4cd363cc7de11b1c92923642f8b21ebdf:20591411 originBehind=true
+t=2024-08-23T14:12:31+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:31+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:34+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=10 id=622344fb96e67925b38403bf1d6464b53150b933e37c4d7361f4e9a59cc6022e checks=1
+t=2024-08-23T14:12:35+0000 lvl=info msg="New local node record"                  seq=1,724,422,266,174 id=61aa5adc7b195424bde7c7fe491393617e31f0cce0bdc35f1a6baaddf63b1f11 ip=13.229.247.64  udp=9003 tcp=9003
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=13.229.247.64
+t=2024-08-23T14:12:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:36+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:36+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAkyQ3AtioBKjPZU3U32KKMrzvimxLn3ZzKPJJa7vfMphmb nodeID=c59a6b91fdd085485f275aa4730595609bae4b03d1accf7678cd7ad76bc23b12 addr=/ip4/142.132.158.175/tcp/25713
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmUUynxTtWxEh4dwzwyahkzwQ3rCd1q2W1A52EmTZaBbcC nodeID=c52fed25ef46e8fb28d1d6522df0b62b83db391b8ada39716b4d33a6345f8bc0 addr=/ip4/89.187.156.100/tcp/9501
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x52e9433d940bc9ff6e6a10f036e0b2f4cd363cc7de11b1c92923642f8b21ebdf:20591411 attempts=0
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x12cd65bd3ded8403a779f87d4a0db59dd7293b6f39845289763814d772e815c6:20591412 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:36+0000 lvl=info msg="Advancing bq origin"                    origin=0x12cd65bd3ded8403a779f87d4a0db59dd7293b6f39845289763814d772e815c6:20591412 originBehind=true
+t=2024-08-23T14:12:36+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:36+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx err="failed to dial 16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx:\n  * [/ip4/65.109.92.156/tcp/9003] dial tcp4 65.109.92.156:9003: connect: connection refused"
+t=2024-08-23T14:12:37+0000 lvl=dbug msg="Replaced dead node"                     p2p=discv5 b=4  id=61a7778c8cea2f50e6e04f549b5986159a33cc3402754a17f2825e62596b92c3 ip=71.131.90.62   checks=0 r=61a5756c954951548e7dd6db2563d03f2af9fec511de8a9b0844fc446091ec48 rip=63.32.118.224
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x12cd65bd3ded8403a779f87d4a0db59dd7293b6f39845289763814d772e815c6:20591412 attempts=0
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="extended finality-data"                 last_l1=0x407ebd878e617c1deeea8bae93fe4a170033996e38d866d309ff96a534224192:20591413 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:38+0000 lvl=info msg="Advancing bq origin"                    origin=0x407ebd878e617c1deeea8bae93fe4a170033996e38d866d309ff96a534224192:20591413 originBehind=true
+t=2024-08-23T14:12:38+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:38+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:39+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=3  id=61af1d02ed3a5273f9cf9958f68126eba5f7d4a58c33c0551b2efe263be16eea checks=1
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="peering tick"                           connected=2 advertised_udp=9003 advertised_tcp=9003 advertised_ip=13.229.247.64
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmUUynxTtWxEh4dwzwyahkzwQ3rCd1q2W1A52EmTZaBbcC
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAkyQ3AtioBKjPZU3U32KKMrzvimxLn3ZzKPJJa7vfMphmb
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:41+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx err="failed to dial 16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx:\n  * [/ip4/65.109.92.156/tcp/9003] dial backoff"
+t=2024-08-23T14:12:41+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmUUynxTtWxEh4dwzwyahkzwQ3rCd1q2W1A52EmTZaBbcC addr=/ip4/89.187.156.100/tcp/9501
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmUUynxTtWxEh4dwzwyahkzwQ3rCd1q2W1A52EmTZaBbcC
+t=2024-08-23T14:12:41+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAkyQ3AtioBKjPZU3U32KKMrzvimxLn3ZzKPJJa7vfMphmb addr=/ip4/142.132.158.175/tcp/25713
+t=2024-08-23T14:12:41+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAkyQ3AtioBKjPZU3U32KKMrzvimxLn3ZzKPJJa7vfMphmb
+t=2024-08-23T14:12:42+0000 lvl=dbug msg="peer joined topic"                      topic=blocks peer=16Uiu2HAmUUynxTtWxEh4dwzwyahkzwQ3rCd1q2W1A52EmTZaBbcC
+t=2024-08-23T14:12:42+0000 lvl=dbug msg="peer joined topic"                      topic=blocks peer=16Uiu2HAkyQ3AtioBKjPZU3U32KKMrzvimxLn3ZzKPJJa7vfMphmb
+t=2024-08-23T14:12:43+0000 lvl=dbug msg="Derivation process step"                onto_origin=0x407ebd878e617c1deeea8bae93fe4a170033996e38d866d309ff96a534224192:20591413 attempts=0
+t=2024-08-23T14:12:43+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:43+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xb8eabeabcf8d9fe5a246d328f5a64acb79233dd4922ace2b39a3b7bc883c7144:20591414 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:43+0000 lvl=info msg="Advancing bq origin"                    origin=0xb8eabeabcf8d9fe5a246d328f5a64acb79233dd4922ace2b39a3b7bc883c7144:20591414 originBehind=true
+t=2024-08-23T14:12:43+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:43+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:45+0000 lvl=dbug msg="discovered peer"                        peer=16Uiu2HAmL8J6pZeTHWtZjKS4yocT3BMwpUJmyzEwNeKiUwsxQue9 nodeID=ec4fae45f38ec45772c022fa5c1b1c71ce569822909f507c9f53041a9c8a819e addr=/ip4/89.187.156.100/tcp/9504
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="peering tick"                           connected=4 advertised_udp=9003 advertised_tcp=9003 advertised_ip=13.229.247.64
+t=2024-08-23T14:12:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna
+t=2024-08-23T14:12:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmFsHqECMaJ3GEYWMPX4MyBEywQL4oK9ci6kAZ4XQGARna err="context deadline exceeded"
+t=2024-08-23T14:12:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW addr=/ip4/52.77.118.184/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAmKVKzUAns2gLhZAz1PYcbnhY3WpxNxUZYeTN1x29tNBAW
+t=2024-08-23T14:12:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:46+0000 lvl=info msg="attempting connection"                  peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN
+t=2024-08-23T14:12:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm1AiZtVp8f5C8LvpSTAXC6GtwqAVKnB3VLawWYSEBmcFN addr=/ip4/47.128.156.248/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="connected to peer"                      peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="disconnected from peer"                 peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT addr=/ip4/54.179.81.93/tcp/9003
+t=2024-08-23T14:12:46+0000 lvl=info msg="Starting P2P sync client event loop"    peer=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="stopped syncing loop of peer"           id=16Uiu2HAm2UHVKiPXpovs8VbbUQVPr7feBAqBJdFsH1z5XDiLEvHT
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="L1 head moved forward"                  l1_head=0x62a87c26abcc274b6b7de3550dd8bb22fb3fbfb8eadc772587471198ec2878be:20591816
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="requesting sync with open-end range"    start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="P2P sync client received range signal, but cannot sync open-ended chain: need sync target to verify blocks through parent-hashes" start=0xbf1324d4fd741ea9e2c0878498433d4deb134d732e146698b8581900ce88fb7b:68145818
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="Derivation process step"                onto_origin=0xb8eabeabcf8d9fe5a246d328f5a64acb79233dd4922ace2b39a3b7bc883c7144:20591414 attempts=0
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="Pending unsafe payloads"                length=0
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="extended finality-data"                 last_l1=0xefd86be45bc3456c0defe7b94f633a90778038ddd4bfc438107dd6a117cedf75:20591415 last_l2=0x06d32304ef7555fc07d53e7a0d4f4d5f9aefea7f2fba5eab757bff5879301ad2:68145289
+t=2024-08-23T14:12:46+0000 lvl=info msg="Advancing bq origin"                    origin=0xefd86be45bc3456c0defe7b94f633a90778038ddd4bfc438107dd6a117cedf75:20591415 originBehind=true
+t=2024-08-23T14:12:46+0000 lvl=info msg="Derived by mantle da"                   MantleDaSwitch=true
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="fetching next piece of data"
+t=2024-08-23T14:12:46+0000 lvl=dbug msg="failed connection attempt"              peer=16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx err="failed to dial 16Uiu2HAmLNxgEfDPGitXcLgKA1PVbVj2eRkQoHyUPb8eHY4MSqcx:\n  * [/ip4/65.109.92.156/tcp/9003] dial tcp4 65.109.92.156:9003: connect: connection refused"
+t=2024-08-23T14:12:47+0000 lvl=dbug msg="Revalidated node"                       p2p=discv5 b=14 id=5c8ac3be8628f706a46566cbfdab19b2ec5e5574445054836eceecee159d0d31 checks=1
